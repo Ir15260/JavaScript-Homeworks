@@ -19,5 +19,5 @@ function atmWithdrawal() {
     }
 }
 
-// Call the function to activate the ATM withdrawal
+
 atmWithdrawal();
