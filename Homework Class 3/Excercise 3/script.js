@@ -1,5 +1,5 @@
 function atmWithdrawal() {
-    const accountBalance = 1000; // Hardcoded account balance
+    const accountBalance = 1000;
     let requestedAmount = prompt("Enter the amount to withdraw:");
 
    
